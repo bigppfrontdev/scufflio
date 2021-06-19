@@ -1,0 +1,21 @@
+div {
+
+}
+section {
+	text-align: center;
+}
+body {
+
+
+}
+body img{
+	width: 30%;
+
+}
+.button {
+	display:inline-block;
+    text-align: center;
+    background-color: #ffffff;
+    width: 84px;margin:0;
+    line-height: 30px;
+}
